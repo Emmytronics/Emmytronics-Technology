@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(to left,#80fc03,#9003fc)
+}
+.container {
+    background: linear-gradient(#9003fc,#fc0362)
+}
+h1 {
+    text-shadow: -2px -2px#80fc03;
+}
+.TOURS {
+    text-shadow: -2px -2px#80fc03;
+}
+.title2 {
+    text-shadow: -2px -2px#80fc03;
+}
